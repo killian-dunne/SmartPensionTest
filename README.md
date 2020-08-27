@@ -6,11 +6,11 @@ I took a TDD approach so far as I could. At times I ended up writing similar tes
 
 ### Assumptions
 
-Assume it doesn't matter what order is aside from by number of views.
+Assume it doesn't matter what the page order is when two pages have the same number visits.
 
-Assume you always want both outputs printed simultaneously
+Assume you always want both outputs printed simultaneously.
 
-Assume multiple visits from the same IP address are within the same session.
+Assume multiple visits from the same IP address are considered part of the same session.
 
 ## Installation
 
